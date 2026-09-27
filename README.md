@@ -15,6 +15,20 @@ Esta herramienta responde a preguntas concretas antes de entrar a la partida:
 
 Y todo con **las fórmulas exactas del juego** (stat con naturaleza e IVs, daño con STAB / efectividad / objeto / crítico), no aproximaciones.
 
+## Capturas
+
+### Pokédex
+
+Vista principal con la rejilla de Pokémon, filtro por generación y búsqueda:
+
+![Vista de la Pokédex](capturas/Captura%20Pokedex.png)
+
+### Calculadora de daño
+
+Formulario para calcular el daño de los ataques (nivel, naturaleza, IVs, objeto, tipo defensor, crítico):
+
+![Calculadora de daño](capturas/Calculadora_de_dan%CC%83o.png)
+
 ## Arquitectura
 
 ```
