@@ -27,7 +27,7 @@ Vista principal con la rejilla de Pokémon, filtro por generación y búsqueda:
 
 Formulario para calcular el daño de los ataques (nivel, naturaleza, IVs, objeto, tipo defensor, crítico):
 
-![Calculadora de daño](capturas/Calculadora_de_dan%CC%83o.png)
+![Calculadora de daño](capturas/Calculadora_de_dano.png)
 
 ## Arquitectura
 
